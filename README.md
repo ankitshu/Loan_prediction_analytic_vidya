@@ -1,1 +1,2 @@
-# Loan_prediction_analytic_vidya
+# Loan_prediction 
+My solution for practice problem on Analytics Vidhya
